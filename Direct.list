@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,hao123.com
 # DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,baidu,edisebay
+DOMAIN-KEYWORD,baidu
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
@@ -586,3 +586,4 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
+DOMAIN-SUFFIX,edisebay.com
